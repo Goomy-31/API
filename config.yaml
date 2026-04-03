@@ -1,0 +1,6 @@
+
+model_path: openai-community/gpt2
+
+student_info:
+  name: "Vo Van Khanh Dang"
+  id: "24120278"
