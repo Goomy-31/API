@@ -85,10 +85,7 @@ Hugging Face, và trả kết quả dưới dạng JSON.
 
 
 ## 📽️Video Demo
-<video width="600" controls>
-  <source src="Demo.mp4" type="video/mp4">
-  Trình duyệt không hỗ trợ video.
-</video>
+https://github.com/user-attachments/assets/6eb03577-ed30-4dec-9190-f0df21b69b9a
 
 
 
