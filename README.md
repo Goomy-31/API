@@ -19,7 +19,7 @@
 1. Mở termial  
 2. Chạy dòng lệnh: 
 ```bash
-pip install torch transformers fastapi uvicorn omegaconf requests
+pip install -r requirements.txt
 ```
 
 ---
