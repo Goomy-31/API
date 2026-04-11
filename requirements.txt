@@ -1,7 +1,7 @@
-Các thư viện cần cài đặt để chạy:
 fastapi
-uvicorn
-transformers
-torch
 omegaconf
+pydantic
 requests
+torch
+transformers
+uvicorn
